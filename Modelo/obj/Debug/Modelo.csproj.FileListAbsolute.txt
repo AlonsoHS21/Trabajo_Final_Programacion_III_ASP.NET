@@ -1,0 +1,6 @@
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\bin\Debug\Modelo.dll
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\obj\Debug\Modelo.dll
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Modelo\obj\Debug\Modelo.pdb

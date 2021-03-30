@@ -1,0 +1,9 @@
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\bin\Debug\Modelo.dll
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\bin\Debug\Modelo.pdb
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alons\Documents\GitHub\Trabajo_Final_Programacion_III_ASP.NET\Negocio\obj\Debug\Negocio.pdb
